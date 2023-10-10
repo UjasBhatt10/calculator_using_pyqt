@@ -10,4 +10,4 @@ Create file calculator.py\
 import sys\
 from PyQt5.QtWidgets import QAplication\
 from PyQt5.QtWidgets import QLabel\
-from PyQt5.QtWidgets import QWidget\
+from PyQt5.QtWidgets import QWidget
